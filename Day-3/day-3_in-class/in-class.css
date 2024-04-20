@@ -1,0 +1,23 @@
+
+.more-paragraph-style {
+    font-size:larger}
+
+    #shuri {
+        width: 50vw;
+    }
+
+    #email{
+        margin: 10px;
+    }
+
+    #email-input{
+        background-color: pink;
+    }
+
+    #email-input:focus {
+        background-color: black;
+    }
+
+    #email-label:hover #email-input{
+        background-color:aqua;
+    }

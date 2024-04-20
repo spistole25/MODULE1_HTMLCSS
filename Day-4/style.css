@@ -1,0 +1,97 @@
+#logo {
+    height: 71px;
+    width: 79%;
+    max-width: 95%;
+    object-fit: contain;
+}
+
+.logo-container {
+    height: 71px;
+    width: 333.51px;
+}
+header {
+    display: flex;
+}
+
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+    text-transform: uppercase;
+    font-weight: 600;
+  } 
+li {
+    display: inline;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    padding: 11px 10px;
+    margin: 0px 15.5px 0px 0px;
+    width: 55.12px;
+    height: 44.5;
+    
+}
+
+.navigation {
+    text-transform: uppercase;
+    font-weight: 500;
+    align-content: center;
+    align-items: center;
+    margin: 30px 0px 0px 12px;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.nav-link:hover {
+    color: #F08F55FA;
+}
+
+.log-in {
+    width: 55.12px;
+    height: 44.5;
+    display: inline;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    padding: 11px 10px;
+}
+.cart {
+    height: 50px;
+    width: 50px;
+    margin-top: 5px;
+    margin-left: 18px;
+}
+
+.log-in-container {
+    width: 300px;
+    height: px;
+    text-transform: uppercase;
+    font-weight: 500;
+    justify-content: right;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    margin: 7px 15.5px 0px 0px;
+    text-align: right;
+}
+.log-in {
+    width: 55.12px;
+    height: 44.5;
+    display: inline;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    padding: 11px 10px;
+}
+.cart {
+    height: 50px;
+    width: 50px;
+    margin-top: 5px;
+    margin-left: 18px;
+}
+
+#background-image {
+    width: 100%;
+    height: auto;
+}
